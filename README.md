@@ -4,7 +4,7 @@
 | No | Course  | Issued by | Date |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Building and Deploying Deep Learning Applications with TensorFlow  | LinkedIn Learning  | June 2020 |
-| 2 | Building Deep Learning Applications with Keras 2.0  | LinkedIn Learning | May 2020 |
+| 2 | Building Deep Learning Applications with Keras 2.0  | LinkedIn Learning | June 2020 |
 | 3 | Apache Spark Essential Training  | LinkedIn Learning | May 2020 |
 | 4 | Analyzing Big Data with Hive  | LinkedIn Learning | May 2020 |
 | 5 | Statistics Foundations: 1  | LinkedIn Learning | June 2020 |
